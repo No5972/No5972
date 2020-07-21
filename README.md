@@ -2,7 +2,7 @@
 
 <hr>
 
-<center> - Content Under Construction - </center>
+![DMB](https://s1.ax1x.com/2020/07/21/U5ruxH.gif)
 
 <!--
 **No5972/No5972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
