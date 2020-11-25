@@ -2,7 +2,7 @@
 
 <hr>
 
-The main international social media of this media publishment has been moved to Github and StackOverflow. Please move to these sites to find us.
+The main international social media of this media publishment has been moved to [Github](#) and [StackOverflow](https://stackoverflow.com/users/14547429/no-5972). Please move to these sites to find us.
 
 <!--
 **No5972/No5972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
