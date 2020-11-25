@@ -2,7 +2,7 @@
 
 <hr>
 
-![DMB](https://s1.ax1x.com/2020/07/21/U5ruxH.gif)
+The main international social media of this media publishment has been moved to Github and StackOverflow. Please move to these sites to find us.
 
 <!--
 **No5972/No5972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
