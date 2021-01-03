@@ -1,6 +1,7 @@
 # <center>No.5972 Profile Page Announcements</center>
 
 <hr>
+Flash Player is now end-of-support. Please check out the [pinned post](https://no5972.tk/cms/archivers/48.html) in the blog to learn about how to respawn Flash Player.
 
 The main international social media of this media publishment has been moved to [Github](#) and [StackOverflow](https://stackoverflow.com/users/14547429/no-5972). Please move to these sites to find us.
 
