@@ -8,6 +8,11 @@ The main international social media of this media publishment has been moved to 
 
 ---
 
+## Profile Views
+![](https://count.getloli.com/get/@:No5972)
+
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=No5972&show_icons=true&text_color=718096&bg_color=ffffff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=no5972&langs_count=10&layout=compact&hide=HTML,css,stylus,batchfile)
 
