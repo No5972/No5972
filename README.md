@@ -1,4 +1,4 @@
-# <center>No.5972 Profile Page Announcements</center>
+<h1 align="center">No.5972 Profile Page Announcements</h1>
 
 <hr>
 
