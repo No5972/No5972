@@ -14,7 +14,7 @@ The main international social media of this media publishment has been moved to 
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=No5972&show_icons=true&text_color=718096&bg_color=ffffff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=no5972&langs_count=10&layout=compact&t=1610602639617&hide=HTML,css,stylus,batchfile)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=no5972&langs_count=10&layout=compact&t=1610602979978&hide=HTML,css,stylus,batchfile)
 
 <!--
 ## Social Medias:
