@@ -33,6 +33,11 @@ The main international social media of this media publishment has been moved to 
 ## Newest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AX版Flash 1月12日之后继续使用Flash的方法](https://no5972.github.io/cms/archivers/65.html)
+- [Github 个人Profile Readme 常用语言卡片 控制比例](https://no5972.github.io/cms/archivers/64.html)
+- [Edge、Chrome 1月12日之后继续使用Flash的方法（超级专业，高能预警）](https://no5972.github.io/cms/archivers/63.html)
+- [百分浏览器继续使用Flash Player的临时解决方案！](https://no5972.github.io/cms/archivers/62.html)
+- [手把手教学：使用油猴脚本对CCTV央视网启用HTML5播放器](https://no5972.github.io/cms/archivers/61.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
