@@ -33,11 +33,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [证明0.999...=1 《高等数学》复旦版黄立宏第四版](https://no5972.github.io/cms/archivers/67.html)
 - [Github 个人Profile 自动实时获取最新博客博文日志并生成链接](https://no5972.github.io/cms/archivers/66.html)
 - [AX版Flash 1月12日之后继续使用Flash的方法](https://no5972.github.io/cms/archivers/65.html)
 - [Github 个人Profile Readme 常用语言卡片 控制比例](https://no5972.github.io/cms/archivers/64.html)
 - [Edge、Chrome 1月12日之后继续使用Flash的方法（超级专业，高能预警）](https://no5972.github.io/cms/archivers/63.html)
-- [百分浏览器继续使用Flash Player的临时解决方案！](https://no5972.github.io/cms/archivers/62.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
