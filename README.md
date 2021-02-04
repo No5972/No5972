@@ -35,15 +35,15 @@ The main international social media of this media publishment has been moved to 
 
 ---
 ## Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=PreviousProjects)](https://github.com/No5972/PreviousProjects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=th06_2.0)](https://github.com/No5972/th06_2.0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=Koishi_Extractor_Republish)](https://github.com/No5972/Koishi_Extractor_Republish)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=Hua_One-Key-Screenshot)](https://github.com/No5972/Hua_One-Key-Screenshot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=HuaOnlineScreenshotAPI)](https://github.com/No5972/HuaOnlineScreenshotAPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=CEFHuaClient)](https://github.com/No5972/CEFHuaClient)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=GeckoHuaClient)](https://github.com/No5972/GeckoHuaClient)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=ExtractorSharp_Republish)](https://github.com/No5972/ExtractorSharp_Republish)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=KoishiEx)](https://github.com/No5972/KoishiEx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=PreviousProjects&1)](https://github.com/No5972/PreviousProjects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=th06_2.0&1)](https://github.com/No5972/th06_2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=Koishi_Extractor_Republish&1)](https://github.com/No5972/Koishi_Extractor_Republish)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=Hua_One-Key-Screenshot&1)](https://github.com/No5972/Hua_One-Key-Screenshot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=HuaOnlineScreenshotAPI&1)](https://github.com/No5972/HuaOnlineScreenshotAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=CEFHuaClient&1)](https://github.com/No5972/CEFHuaClient)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=GeckoHuaClient&1)](https://github.com/No5972/GeckoHuaClient)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=ExtractorSharp_Republish&1)](https://github.com/No5972/ExtractorSharp_Republish)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=KoishiEx&1)](https://github.com/No5972/KoishiEx)
 
 ---
 
