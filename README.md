@@ -50,11 +50,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hexo Gitee Pages 自动部署站点](https://no5972.github.io/cms/archivers/70.html)
 - [Github 添加一个实时显示StackOverflow分数Reputation的徽章](https://no5972.github.io/cms/archivers/69.html)
 - [根据之前文章整理的在2021年继续使用Flash Player的方法【重新整理】](https://no5972.github.io/cms/archivers/68.html)
 - [证明0.999...=1 《高等数学》复旦版黄立宏第四版](https://no5972.github.io/cms/archivers/67.html)
 - [Github 个人Profile 自动实时获取最新博客博文日志并生成链接](https://no5972.github.io/cms/archivers/66.html)
-- [AX版Flash 1月12日之后继续使用Flash的方法](https://no5972.github.io/cms/archivers/65.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
