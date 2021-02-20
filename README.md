@@ -36,6 +36,7 @@ The main international social media of this media publishment has been moved to 
 ---
 ## Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=PreviousProjects&1)](https://github.com/No5972/PreviousProjects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=pixiv-github-action&1)](https://github.com/No5972/pixiv-github-action)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=th06_2.0&1)](https://github.com/No5972/th06_2.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=Koishi_Extractor_Republish&1)](https://github.com/No5972/Koishi_Extractor_Republish)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=Hua_One-Key-Screenshot&1)](https://github.com/No5972/Hua_One-Key-Screenshot)
