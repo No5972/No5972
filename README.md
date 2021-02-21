@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [利用GitHub Actions每天自动从Pixiv爬虫日推图片并存放到仓库](https://no5972.github.io/cms/archivers/73.html)
 - [树上有十只鸟，开枪打死一只，还剩几只？](https://no5972.github.io/cms/archivers/72.html)
 - [将多个仓库组成的GitHub站点部署到Vercel并绑定独立域名](https://no5972.github.io/cms/archivers/71.html)
 - [Hexo Gitee Pages 自动部署站点](https://no5972.github.io/cms/archivers/70.html)
 - [Github 添加一个实时显示StackOverflow分数Reputation的徽章](https://no5972.github.io/cms/archivers/69.html)
-- [根据之前文章整理的在2021年继续使用Flash Player的方法【重新整理】](https://no5972.github.io/cms/archivers/68.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
