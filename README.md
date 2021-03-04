@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DNF 傻子与女孩的故事](https://no5972.github.io/cms/archivers/77.html)
 - [仅作笔记用：C# MiniBlink 初始化并实现JS调用C#代码](https://no5972.github.io/cms/archivers/76.html)
 - [GitHub 的用法与礼仪](https://no5972.github.io/cms/archivers/75.html)
 - [如何删除Github上的Commit历史记录？](https://no5972.github.io/cms/archivers/74.html)
 - [利用GitHub Actions每天自动从Pixiv爬虫日推图片并存放到仓库](https://no5972.github.io/cms/archivers/73.html)
-- [树上有十只鸟，开枪打死一只，还剩几只？](https://no5972.github.io/cms/archivers/72.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
