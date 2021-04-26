@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [将Hexo环境迁移到Repl](https://no5972.github.io/cms/archivers/87.html)
 - [Java POI WPS另存为的XLSX Excel报错Package should contain a content type part [M1.13]](https://no5972.github.io/cms/archivers/86.html)
 - [无聊之作——《随机组句》](https://no5972.github.io/cms/archivers/85.html)
 - [Node.js 将MEGA网盘的指定目录下载并打包成ZIP](https://no5972.github.io/cms/archivers/84.html)
 - [微云不限速下载方法 + 免费扩容](https://no5972.github.io/cms/archivers/83.html)
-- [HTML JS 输入拼音的打字机效果](https://no5972.github.io/cms/archivers/82.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
