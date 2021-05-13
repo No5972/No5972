@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [尽可能简单的搭建Hexo博客并部署到Vercel](https://no5972.github.io/cms/archivers/90.html)
 - [将Hexo博客直接部署到Vercel，不经过Github](https://no5972.github.io/cms/archivers/89.html)
 - [黑白棋中的AI](https://no5972.github.io/cms/archivers/88.html)
 - [将Hexo环境迁移到Repl](https://no5972.github.io/cms/archivers/87.html)
 - [Java POI WPS另存为的XLSX Excel报错Package should contain a content type part [M1.13]](https://no5972.github.io/cms/archivers/86.html)
-- [无聊之作——《随机组句》](https://no5972.github.io/cms/archivers/85.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
