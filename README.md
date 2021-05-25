@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [不用计算器计算下列常数的近似值：三次根号8.1，ln0.99，arctan1.02 《高等数学》复旦版黄立宏第四版](https://no5972.github.io/cms/archivers/91.html)
 - [尽可能简单的搭建Hexo博客并部署到Vercel](https://no5972.github.io/cms/archivers/90.html)
 - [将Hexo博客直接部署到Vercel，不经过Github](https://no5972.github.io/cms/archivers/89.html)
 - [黑白棋中的AI](https://no5972.github.io/cms/archivers/88.html)
 - [将Hexo环境迁移到Repl](https://no5972.github.io/cms/archivers/87.html)
-- [Java POI WPS另存为的XLSX Excel报错Package should contain a content type part [M1.13]](https://no5972.github.io/cms/archivers/86.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
