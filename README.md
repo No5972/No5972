@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 ISO引导安装提示此电脑不符合安装此版本Windows的最低要求的解决方法](https://no5972.github.io/cms/archivers/94.html)
 - [仅做笔记用：C语言 Linux控制PC蜂鸣器，相对简单一点的代码](https://no5972.github.io/cms/archivers/93.html)
 - [0.999...=1 分别用小学，初中，高中，大学证法证明](https://no5972.github.io/cms/archivers/92.html)
 - [不用计算器计算下列常数的近似值：三次根号8.1，ln0.99，arctan1.02 《高等数学》复旦版黄立宏第四版](https://no5972.github.io/cms/archivers/91.html)
 - [尽可能简单的搭建Hexo博客并部署到Vercel](https://no5972.github.io/cms/archivers/90.html)
-- [将Hexo博客直接部署到Vercel，不经过Github](https://no5972.github.io/cms/archivers/89.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
