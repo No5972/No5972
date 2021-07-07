@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [文章仿写：拥抱Windows11](https://no5972.github.io/cms/archivers/97.html)
 - [平板KNoteX Pro 安装Windows 11 记录](https://no5972.github.io/cms/archivers/96.html)
 - [C语言的发展和特点](https://no5972.github.io/cms/archivers/95.html)
 - [Windows 11 ISO引导安装提示此电脑不符合安装此版本Windows的最低要求的解决方法](https://no5972.github.io/cms/archivers/94.html)
 - [仅做笔记用：C语言 Linux控制PC蜂鸣器，相对简单一点的代码](https://no5972.github.io/cms/archivers/93.html)
-- [0.999...=1 分别用小学，初中，高中，大学证法证明](https://no5972.github.io/cms/archivers/92.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
