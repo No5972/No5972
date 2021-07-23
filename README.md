@@ -51,11 +51,11 @@ The main international social media of this media publishment has been moved to 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [更新“武器库”，运作假舆情！新型网络暴力有组织、有策划，形成一门黑产生意](https://no5972.github.io/cms/archivers/100.html)
 - [Windows 11 跳过启动显示配置偏好设置页面](https://no5972.github.io/cms/archivers/99.html)
 - [Edge 92 关闭自动切换到HTTPS](https://no5972.github.io/cms/archivers/98.html)
 - [文章仿写：拥抱Windows11](https://no5972.github.io/cms/archivers/97.html)
 - [平板KNoteX Pro 安装Windows 11 记录](https://no5972.github.io/cms/archivers/96.html)
-- [C语言的发展和特点](https://no5972.github.io/cms/archivers/95.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
