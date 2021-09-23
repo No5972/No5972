@@ -2,9 +2,9 @@
 
 <hr>
 
-Flash Player is now end-of-support. Please check out the [pinned post](https://no5972.tk/cms/archivers/68.html) in the blog to learn about how to respawn Flash Player.
+The domain is now expired as the Freenom github action has been disabled by GitHub Staff. At this moment, we have temporarily removed the personal website link on the left in this page. We are currently applying for some new domains and please visit [our temporary site](https://no5972.cn) at this time. We won't recommend this way over a long period of time. Thank you for your patience.
 
-The main international social media of this media publishment has been moved to [Github](#) and [StackOverflow](https://stackoverflow.com/users/14547429/no-5972). Please move to these sites to find us.
+Flash Player is now end-of-support. Please check out the [pinned post](https://no5972.tk/cms/archivers/68.html) in the blog to learn about how to respawn Flash Player.
 
 ---
 
