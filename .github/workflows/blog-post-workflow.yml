@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://no5972.tk/cms/feed.xml"
+          feed_list: "https://no5972.moe/cms/feed.xml"
