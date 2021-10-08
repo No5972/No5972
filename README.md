@@ -53,11 +53,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [解决Flash Player过期的问题——谷歌浏览器Chrome 87.0.4270.0绿色免安装增强版](https://no5972.github.io/cms/archivers/106.html)
 - [在 Windows 11 的“此电脑”窗口添加“控制面板”图标](https://no5972.github.io/cms/archivers/105.html)
 - [本站已更换域名到 no5972.moe](https://no5972.github.io/cms/archivers/104.html)
 - [【未经测试】原神2.1 官服与B服互转的方法](https://no5972.github.io/cms/archivers/103.html)
 - [网上十大经典黑客软件大曝光](https://no5972.github.io/cms/archivers/102.html)
-- [中国人比美国、日本人富吗？——中文Win98 1998元定价的背后](https://no5972.github.io/cms/archivers/101.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
