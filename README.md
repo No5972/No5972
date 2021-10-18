@@ -53,11 +53,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [冷饭热炒：让 Win10/11 也能用上 3D 窗口切换效果](https://no5972.github.io/cms/archivers/109.html)
 - [Flash CS6 导出 H5 格式的插件面板 ToolKit for CreateJS 的绿色安装方法](https://no5972.github.io/cms/archivers/108.html)
 - [LaTeX 书写递等式](https://no5972.github.io/cms/archivers/107.html)
 - [解决Flash Player过期的问题——谷歌浏览器Chrome 87.0.4270.0绿色免安装增强版](https://no5972.github.io/cms/archivers/106.html)
 - [在 Windows 11 的“此电脑”窗口添加“控制面板”图标](https://no5972.github.io/cms/archivers/105.html)
-- [本站已更换域名到 no5972.moe](https://no5972.github.io/cms/archivers/104.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
