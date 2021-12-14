@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Win11  在 Edge 浏览器中报名教师资格证](https://no5972.github.io/cms/archivers/117.html)
 - [仅作笔记用：IrfanView 修改快捷键](https://no5972.github.io/cms/archivers/116.html)
 - [修改 Windows 11 右键菜单为旧版样式](https://no5972.github.io/cms/archivers/115.html)
 - [Hexo 博客  添加 3D 看板娘  替换原来的 Live2D](https://no5972.github.io/cms/archivers/114.html)
 - [仅作笔记用：PMX Editor 修改贴图材质](https://no5972.github.io/cms/archivers/112.html)
-- [SpringBoot 集成 WebSocket](https://no5972.github.io/cms/archivers/111.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
