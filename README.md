@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [不用修改注册表和组策略也能在 Win11 报名教师资格证](https://no5972.moe/cms/archivers/121.html)
 - [杀人的网络暴力不整治不行了](https://no5972.moe/cms/archivers/120.html)
 - [将 Python Django 的 Web 项目部署到 Vercel](https://no5972.moe/cms/archivers/119.html)
 - [Python 手动实现 Base64 编码](https://no5972.moe/cms/archivers/118.html)
 - [Win11  在 Edge 浏览器中报名教师资格证](https://no5972.moe/cms/archivers/117.html)
-- [仅作笔记用：IrfanView 修改快捷键](https://no5972.moe/cms/archivers/116.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
