@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如此捆绑太无赖：软件下载网站“高速下载”陷阱 一年赚12亿](https://no5972.moe/cms/archivers/124.html)
 - [传新版支持光追的 MikuMikuDance 正由另一人研发——MikuMikuDance 2 Project](https://no5972.moe/cms/archivers/123.html)
 - [冷饭热炒：手机 QQ 手动领取超级 QQ 秀内测资格](https://no5972.moe/cms/archivers/122.html)
 - [不用修改注册表和组策略也能在 Win11 报名教师资格证](https://no5972.moe/cms/archivers/121.html)
 - [杀人的网络暴力不整治不行了](https://no5972.moe/cms/archivers/120.html)
-- [将 Python Django 的 Web 项目部署到 Vercel](https://no5972.moe/cms/archivers/119.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
