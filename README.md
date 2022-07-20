@@ -56,11 +56,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leancloud 绑定自定义域名](https://no5972.moe/cms/archivers/128.html)
 - [统信 UOS 连接 Windows 共享打印机](https://no5972.moe/cms/archivers/127.html)
 - [去除 Windows 11 的“了解此图片”图标](https://no5972.moe/cms/archivers/126.html)
 - [即日起本博客停止在 Gitee 部署](https://no5972.moe/cms/archivers/125.html)
 - [Windows 11 破解新安装系统必须联网的步骤](https://no5972.moe/cms/archivers/124.html)
-- [传新版支持光追的 MikuMikuDance 正由另一人研发——MikuMikuDance 2 Project](https://no5972.moe/cms/archivers/123.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
