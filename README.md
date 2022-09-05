@@ -56,11 +56,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [仅作笔记用：UOS 解决 APT 报错处理 com.dongpl.beyond &lpar;NewVersion2&rpar; 时出错](https://no5972.moe/cms/archivers/136.html)
 - [仅作笔记用：何谓“联机帮助”？](https://no5972.moe/cms/archivers/135.html)
 - [Blender MMD 备忘](https://no5972.moe/cms/archivers/134.html)
 - [UOS ARM 安装安卓手机软件 APK 软件包](https://no5972.moe/cms/archivers/133.html)
 - [UOS 虚拟打印到 PDF 文件](https://no5972.moe/cms/archivers/132.html)
-- [DebreateForUOS 打包 UOS Electron 应用](https://no5972.moe/cms/archivers/131.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
