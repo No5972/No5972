@@ -16,7 +16,7 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=No5972&show_icons=true&text_color=718096&bg_color=ffffff&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=no5972&langs_count=10&layout=compact&hide_border=true&t=1611019612033&hide=HTML,css,stylus,batchfile,Nunjucks,PHP)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=no5972&langs_count=10&layout=compact&hide_border=true&t=1611019612033&hide=HTML,css,stylus,batchfile,EJS,PHP,Nix)
 
 <!--
 ## Social Medias:
