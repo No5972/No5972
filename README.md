@@ -56,11 +56,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UOS 在桌面创建网页快捷方式](https://no5972.moe/cms/archivers/143.html)
 - [UOS 录制电脑播放的音频 / 内录音频](https://no5972.moe/cms/archivers/142.html)
 - [仅作笔记用：PMXEditor 添加饰品](https://no5972.moe/cms/archivers/141.html)
 - [Windows 11 通过 VBS 打开 IE 浏览器](https://no5972.moe/cms/archivers/140.html)
 - [上个世纪的垃圾佬——《电脑爱好者》1999 年 DIY 大赛入围作品赏析（5）](https://no5972.moe/cms/archivers/139.html)
-- [仅作笔记用：Universal Extractor 解包小花仙 Win10 微端](https://no5972.moe/cms/archivers/138.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
