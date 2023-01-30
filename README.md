@@ -11,7 +11,7 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ---
 
 ## Profile Views
-![](https://count.getloli.com/get/@:No5972)
+![](https://count.ayaya.beauty/get/@No5972)
 
 ---
 
