@@ -38,7 +38,7 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ---
 ## Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=PreviousProjects&1)](https://github.com/No5972/PreviousProjects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=pixiv-github-action&1)](https://github.com/No5972/pixiv-github-action)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=pixiv-github-action&1)](https://github.com/No5972/pixiv-github-action) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=pixiv_manual_fetch&1)](https://github.com/No5972/pixiv_manual_fetch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=th06_3.1&1)](https://github.com/No5972/th06_3.1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no5972&repo=th06_2.0&1)](https://github.com/No5972/th06_2.0)
