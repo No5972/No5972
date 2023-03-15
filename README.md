@@ -54,11 +54,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [仅作笔记用：Windows 11 通过 PowerShell 打开 IE 浏览器](https://no5972.moe/cms/archivers/145.html)
 - [仅作笔记用：Windows 10 继续使用 IE 浏览器（针对23年2月14日的系统更新）](https://no5972.moe/cms/archivers/144.html)
 - [UOS 在桌面创建网页快捷方式](https://no5972.moe/cms/archivers/143.html)
 - [UOS 录制电脑播放的音频 / 内录音频](https://no5972.moe/cms/archivers/142.html)
 - [仅作笔记用：PMXEditor 添加饰品](https://no5972.moe/cms/archivers/141.html)
-- [Windows 11 通过 VBS 打开 IE 浏览器](https://no5972.moe/cms/archivers/140.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
