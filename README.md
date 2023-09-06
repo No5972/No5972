@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [仅作笔记用：JS 一行代码实现同步的延时语句](https://no5972.moe/cms/archivers/150.html)
 - [2023 年 7 月中旬使用各种随身 Wifi 的电脑无法上网的解决方法](https://no5972.moe/cms/archivers/149.html)
 - [仅做笔记用：Stable Diffusion 获取历史生成图片的 prompt](https://no5972.moe/cms/archivers/148.html)
 - [仅做笔记用：Stable Diffusion 扩展图片 / 扩图](https://no5972.moe/cms/archivers/147.html)
 - [天选键盘 设置和使用键盘宏（不使用奥创中心）](https://no5972.moe/cms/archivers/146.html)
-- [仅作笔记用：Windows 11 通过 PowerShell 打开 IE 浏览器](https://no5972.moe/cms/archivers/145.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
