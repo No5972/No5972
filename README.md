@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [搭建本地 Unlimited Waifu2x 动漫立绘图片超分](https://no5972.moe/cms/archivers/155.html)
 - [仅作笔记用：C语言 将结构体以二进制形式写入文件](https://no5972.moe/cms/archivers/154.html)
 - [仅做笔记用：PowerShell 关闭显示器](https://no5972.moe/cms/archivers/153.html)
 - [仅做笔记用：Stable Diffusion 通过 ControlNet 扩展图片 / 扩图](https://no5972.moe/cms/archivers/152.html)
 - [Civitai 通过 API 下载模型](https://no5972.moe/cms/archivers/151.html)
-- [仅作笔记用：JS 一行代码实现同步的延时语句](https://no5972.moe/cms/archivers/150.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
