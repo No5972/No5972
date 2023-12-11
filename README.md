@@ -55,7 +55,7 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [赛博灯泡：Win10/11 设置屏幕缩放 500% 的还原方法（全称键盘，不用鼠标）](https://no5972.moe/cms/archivers/156.html)
+- [赛博灯泡：Win10/11 设置屏幕缩放 500﹪ 的还原方法（全称键盘，不用鼠标）](https://no5972.moe/cms/archivers/156.html)
 - [搭建本地 Unlimited Waifu2x 动漫立绘图片超分](https://no5972.moe/cms/archivers/155.html)
 - [仅作笔记用：C语言 将结构体以二进制形式写入文件](https://no5972.moe/cms/archivers/154.html)
 - [仅做笔记用：PowerShell 关闭显示器](https://no5972.moe/cms/archivers/153.html)
