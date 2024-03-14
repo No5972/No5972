@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [解决访问共享打印机提示“用户账户限制，不允许空密码”的问题](https://no5972.moe/cms/archivers/158.html)
 - [仅作笔记用：Ventoy 不支持 Windows XP](https://no5972.moe/cms/archivers/157.html)
 - [赛博灯泡：Win10/11 设置屏幕缩放 500﹪ 的还原方法（全称键盘，不用鼠标）](https://no5972.moe/cms/archivers/156.html)
 - [搭建本地 Unlimited Waifu2x 动漫立绘图片超分](https://no5972.moe/cms/archivers/155.html)
 - [仅作笔记用：C语言 将结构体以二进制形式写入文件](https://no5972.moe/cms/archivers/154.html)
-- [仅做笔记用：PowerShell 关闭显示器](https://no5972.moe/cms/archivers/153.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
