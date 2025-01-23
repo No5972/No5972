@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [大学 C 语言在线 PTA 平台编译提示警告未使用 scanf 返回值的问题](https://no5972.moe/cms/archivers/165.html)
+- [大学 C 语言在线 PTA 平台编译提示警告未使用 scanf 返回值的问题](https://no5972.moe/cms/archivers/166.html)
+- [仅作笔记用：请勿在安装好的可正常使用的 Windows 系统中运行 msoobe.exe](https://no5972.moe/cms/archivers/165.html)
 - [仅作笔记用：M.2转接卡转移原机械硬盘系统盘](https://no5972.moe/cms/archivers/164.html)
 - [如何删除 WPS 在图片文件属性中添加的“属性修改”选项卡](https://no5972.moe/cms/archivers/163.html)
 - [PowerShell 编程实例：将一张 PNG 的图像隐藏到另外一个 PNG 文件中，不改变原 PNG 图像](https://no5972.moe/cms/archivers/162.html)
-- [赛博文盲式教学：VC6 解决“打开”命令出现闪退、错误的问题](https://no5972.moe/cms/archivers/161.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
