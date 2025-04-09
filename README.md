@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于 Win7 运行豆包桌面版提示无法定位程序输入点，无法运行的问题](https://no5972.moe/cms/archivers/169.html)
 - [C 语言 手动给 Win9x/ME 蓝屏](https://no5972.moe/cms/archivers/168.html)
 - [仅作笔记用：GPT4All 本地部署 DeepSeek R1 模型，简明说明（手动下载模型）](https://no5972.moe/cms/archivers/167.html)
 - [大学 C 语言在线 PTA 平台编译提示警告未使用 scanf 返回值的问题](https://no5972.moe/cms/archivers/166.html)
 - [仅作笔记用：请勿在安装好的可正常使用的 Windows 系统中运行 msoobe.exe](https://no5972.moe/cms/archivers/165.html)
-- [仅作笔记用：M.2转接卡转移原机械硬盘系统盘](https://no5972.moe/cms/archivers/164.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
