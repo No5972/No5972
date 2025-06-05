@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [仅作笔记用：其他盘的页面文件突然不见了怎么办](https://no5972.moe/cms/archivers/171.html)
 - [实用为先! 图说Photoshop 6.0轻松入门四步走](https://no5972.moe/cms/archivers/170.html)
 - [关于 Win7 运行豆包桌面版提示无法定位程序输入点，无法运行的问题](https://no5972.moe/cms/archivers/169.html)
 - [C 语言 手动给 Win9x/ME 蓝屏](https://no5972.moe/cms/archivers/168.html)
 - [仅作笔记用：GPT4All 本地部署 DeepSeek R1 模型，简明说明（手动下载模型）](https://no5972.moe/cms/archivers/167.html)
-- [大学 C 语言在线 PTA 平台编译提示警告未使用 scanf 返回值的问题](https://no5972.moe/cms/archivers/166.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
