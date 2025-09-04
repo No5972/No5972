@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [仅作笔记用：利用 AI 大模型将 DNF 角色截图转换成手办图（推荐模型 Gemini 2.5 Flash Image）](https://no5972.moe/cms/archivers/172.html)
 - [仅作笔记用：其他盘的页面文件突然不见了怎么办](https://no5972.moe/cms/archivers/171.html)
 - [实用为先! 图说Photoshop 6.0轻松入门四步走](https://no5972.moe/cms/archivers/170.html)
 - [关于 Win7 运行豆包桌面版提示无法定位程序输入点，无法运行的问题](https://no5972.moe/cms/archivers/169.html)
 - [C 语言 手动给 Win9x/ME 蓝屏](https://no5972.moe/cms/archivers/168.html)
-- [仅作笔记用：GPT4All 本地部署 DeepSeek R1 模型，简明说明（手动下载模型）](https://no5972.moe/cms/archivers/167.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
