@@ -55,11 +55,11 @@ Flash Player is now end-of-support. Please check out the [pinned post](https://n
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Win11 使用 QEMU 虚拟机运行 VC6 的可行性](https://no5972.moe/cms/archivers/174.html)
+- [Win11 使用 Copy v86 在线网页运行 VC6 学习 C 语言的可行性](https://no5972.moe/cms/archivers/173.html)
 - [仅作笔记用：利用 AI 大模型将 DNF 角色截图转换成手办图（推荐模型 Gemini 2.5 Flash Image）](https://no5972.moe/cms/archivers/172.html)
 - [仅作笔记用：其他盘的页面文件突然不见了怎么办](https://no5972.moe/cms/archivers/171.html)
 - [实用为先! 图说Photoshop 6.0轻松入门四步走](https://no5972.moe/cms/archivers/170.html)
-- [关于 Win7 运行豆包桌面版提示无法定位程序输入点，无法运行的问题](https://no5972.moe/cms/archivers/169.html)
-- [C 语言 手动给 Win9x 蓝屏](https://no5972.moe/cms/archivers/168.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
